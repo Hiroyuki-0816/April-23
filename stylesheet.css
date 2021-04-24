@@ -2,9 +2,14 @@ hi {
   color:red;
 }
 h2 {
-  color:blue;
-  font-size:10px;
+  font-size:25px;
 }
 p {
   font-family:YuMincho;
+}
+li{
+  background-color:blue;
+}
+.change{
+  color:blue;
 }
